@@ -24,9 +24,11 @@ Apart from the above, I have a keen interest in ML & DL and how it can be levera
 
 # Projects 
 1. Spices-Raw-Materials-Price-Forecasting
+
    Link: https://github.com/aravind150901/Spices-Raw-Materials-Price-Forecasting
 
-2. Spices-Raw-Materials-Price-Forecasting
+3. Spices-Raw-Materials-Price-Forecasting
+
    Link: https://github.com/aravind150901/Spices-Raw-Materials-Price-Forecasting
    
    
