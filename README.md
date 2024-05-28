@@ -1,7 +1,7 @@
 # Hi I am K Aravind
 # Data Analyst | Data Science & Machine Learning | Deep Learning AI
 # About Me
-I am currently working in data Analysis field and I have a strong & exhaustive skillset in SQL, Python, BI Tools & Statistics. Passionate about using statistical methods and
+I am currently working in Data Analysis field and I have a strong & exhaustive skillset in SQL, Python, BI Tools & Statistics. Passionate about using statistical methods and
 programming, while staying adaptable and staying updated on new technologies and methods in the field.
 
 # Skills:
