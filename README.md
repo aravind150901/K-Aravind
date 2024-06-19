@@ -27,8 +27,8 @@ Apart from the above, I have a keen interest in ML & DL and how it can be levera
 
    Link: https://github.com/aravind150901/Spices-Raw-Materials-Price-Forecasting
 
-3. Spices-Raw-Materials-Price-Forecasting
+2. Pipe Inventory Management using YOLOv8 Model
 
-   Link: https://github.com/aravind150901/Spices-Raw-Materials-Price-Forecasting
+   Link: https://github.com/aravind150901/Pipe-Inventory-Management
    
    
